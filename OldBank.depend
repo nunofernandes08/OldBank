@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574174939 source:c:\users\convidadonuno\desktop\oldbank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1574943846 source:c:\users\marco marinho\desktop\oldbank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1575308309 source:c:\users\ebm45\desktop\oldbank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
